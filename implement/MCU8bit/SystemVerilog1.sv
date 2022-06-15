@@ -1,0 +1,10 @@
+module Control(
+		input[3:0] OP, 
+    	input [1:0] SM, 
+		input [1:0] Flag,
+		output [1:0] PC_Ctr,
+		output ALU_IN1,
+		output MemToReg,
+		output [3:0] ALU_Ctr
+);
+endmodule

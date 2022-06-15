@@ -1,0 +1,27 @@
+module PC(clk,EN, PC_Control, Count_ALU, pc);
+	parameter N=8;
+	
+	input clk;
+	input EN;
+	input PC_Control;
+	input [N-1:0]Count_ALU;
+	output [N-1:0]pc;
+	
+	reg [N-1:0]pc_current;
+	wire [N-1:0]pc_next, pc2;
+	
+	initial begin
+		pc_current <= 16'd0;
+		end
+	always @(posedge clk)
+		begin 
+		if(EN==1)
+		begin
+		pc_current <= pc_next;
+		end
+		end
+		assign pc2 = pc_current +  8'b1;
+		assign pc_next = (PC_Control==1) ? pc_next : pc2 ;
+		assign pc = pc_current;
+	
+endmodule

@@ -1,0 +1,106 @@
+E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Memory.v {1 {vlog -work work E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Memory.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Memory
+
+Top level modules:
+	Memory
+
+} {} {}} E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Control.v {1 {vlog -work work E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Control.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Control
+
+Top level modules:
+	Control
+
+} {} {}} E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/ALU.v {1 {vlog -work work E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/ALU.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module ALU
+
+Top level modules:
+	ALU
+
+} {} {}} E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Mux.v {1 {vlog -work work E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Mux.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Mux
+
+Top level modules:
+	Mux
+
+} {} {}} E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_Control.v {1 {vlog -work work E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_Control.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module TestB_Control
+
+Top level modules:
+	TestB_Control
+
+} {} {}} E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_Instruction.v {1 {vlog -work work E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_Instruction.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module TestB_Instruction
+
+Top level modules:
+	TestB_Instruction
+
+} {} {}} E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_PC.v {1 {vlog -work work E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_PC.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module TestB_PC
+
+Top level modules:
+	TestB_PC
+
+} {} {}} E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Register.v {1 {vlog -work work E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Register.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Register
+
+Top level modules:
+	Register
+
+} {} {}} E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Cnt_clk.v {1 {vlog -work work E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Cnt_clk.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Cnt_clk
+
+Top level modules:
+	Cnt_clk
+
+} {} {}} E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/MCU_8bit.v {1 {vlog -work work E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/MCU_8bit.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module MCU_8bit
+
+Top level modules:
+	MCU_8bit
+
+} {} {}} E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/PC.v {1 {vlog -work work E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/PC.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module PC
+
+Top level modules:
+	PC
+
+} {} {}} E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_Register.v {1 {vlog -work work E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_Register.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module TestB_Register
+
+Top level modules:
+	TestB_Register
+
+} {} {}} E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_MCU.v {1 {vlog -work work E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_MCU.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module TestB_MCU
+
+Top level modules:
+	TestB_MCU
+
+} {} {}} E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Intruction.v {1 {vlog -work work E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Intruction.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module Intruction
+
+Top level modules:
+	Intruction
+
+} {} {}} E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_InPutOP.v {1 {vlog -work work E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_InPutOP.v
+Model Technology ModelSim ALTERA vlog 10.1b Compiler 2012.04 Apr 27 2012
+-- Compiling module TestB_InPutOP
+
+Top level modules:
+	TestB_InPutOP
+
+} {} {}}

@@ -1,0 +1,305 @@
+m255
+K3
+13
+cModel Technology
+Z0 dE:\20181\ThietKeHeNhung\DCT\RTL\Lab-6\Lab 6
+vALU
+Z1 !s100 >ocf2JmW@UjF[KmJ7fkLN1
+Z2 IEoei1N?b;0H3_SgNFE@hV2
+Z3 VF;Fi21UR_n3XjP_Dz1M>13
+Z4 dE:\20181\VLSI\thietke\VLSI_MCU8bit_Nhom2\implement\MCU8bit
+Z5 w1545623341
+Z6 8E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/ALU.v
+Z7 FE:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/ALU.v
+L0 1
+Z8 OV;L;10.1b;51
+r1
+31
+Z9 !s90 -reportprogress|300|-work|work|E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/ALU.v|
+Z10 o-work work -O0
+Z11 n@a@l@u
+Z12 !s108 1545730871.083000
+Z13 !s107 E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/ALU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vCnt_clk
+Z14 I]R>NXaTb`QQh>i;P1em1B1
+Z15 VnKCDLRc6>@DCBo?`B9b0S1
+R4
+Z16 w1545730743
+Z17 8E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Cnt_clk.v
+Z18 FE:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Cnt_clk.v
+L0 1
+R8
+r1
+31
+Z19 !s90 -reportprogress|300|-work|work|E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Cnt_clk.v|
+R10
+Z20 n@cnt_clk
+Z21 !s100 l8ZbCVG2=E9FGf>oFaebV0
+Z22 !s108 1545730871.343000
+Z23 !s107 E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Cnt_clk.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vControl
+Z24 !s100 [Sa]jnA6?^6d[7UY2gAZV1
+Z25 I=lgJG:dGAFNdG<MTA:<Qd3
+Z26 Vi^`eM6U6T^^@]kldBGG=j0
+R4
+Z27 w1545491794
+Z28 8E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Control.v
+Z29 FE:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Control.v
+L0 1
+R8
+r1
+31
+Z30 !s90 -reportprogress|300|-work|work|E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Control.v|
+R10
+Z31 n@control
+Z32 !s108 1545730871.645000
+Z33 !s107 E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vIntruction
+Z34 !s100 oWHi:0n5:hPnlhUzeG<8C1
+Z35 I]1WijI3L]1HI?kzz?P=CI1
+Z36 VjRI[6?=MPj1f1O=fb3ha00
+R4
+Z37 w1545622072
+Z38 8E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Intruction.v
+Z39 FE:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Intruction.v
+L0 1
+R8
+r1
+31
+Z40 !s90 -reportprogress|300|-work|work|E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Intruction.v|
+R10
+Z41 n@intruction
+Z42 !s108 1545730871.881000
+Z43 !s107 E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Intruction.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMCU_8bit
+Z44 !s100 h?;7`20YWh78ZM0Y^jOEh1
+Z45 IkA_@a;1f@S:ZNo0_=@AbM2
+Z46 V:d=ZaKh:bfJ2YaU;5QBHz2
+R4
+Z47 w1545495594
+Z48 8E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/MCU_8bit.v
+Z49 FE:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/MCU_8bit.v
+L0 1
+R8
+r1
+31
+Z50 !s90 -reportprogress|300|-work|work|E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/MCU_8bit.v|
+R10
+Z51 n@m@c@u_8bit
+Z52 !s108 1545730872.139000
+Z53 !s107 E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/MCU_8bit.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMemory
+Z54 !s100 W<ga3]<h24YieGC6jCg;^0
+Z55 I0CD[KCkAg1APb>Azl7M_H3
+Z56 V8mFIAzbg<ojCkW]EiH2L:0
+R4
+Z57 w1545730747
+Z58 8E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Memory.v
+Z59 FE:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Memory.v
+L0 1
+R8
+r1
+31
+Z60 !s90 -reportprogress|300|-work|work|E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Memory.v|
+R10
+Z61 n@memory
+Z62 !s108 1545730872.395000
+Z63 !s107 E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Memory.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vMux
+Z64 !s100 H;9DgBG]VZ28e[ESiPaWT1
+Z65 IXQ_bzo3IG0U;`A:_]GKz@0
+Z66 VSl6nIeROV]nLcZe_6G8Q50
+R4
+Z67 w1544359917
+Z68 8E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Mux.v
+Z69 FE:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Mux.v
+L0 1
+R8
+r1
+31
+Z70 !s90 -reportprogress|300|-work|work|E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Mux.v|
+R10
+n@mux
+Z71 !s108 1545730872.690000
+Z72 !s107 E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Mux.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vPC
+Z73 !s100 6K66l>9MjiD_eBMYQ]4=R0
+Z74 IAW===F2NCnSh`SW^VY1j^1
+Z75 V5SH4>KNeOk5J^W]n8LWGL1
+R4
+Z76 w1545494181
+Z77 8E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/PC.v
+Z78 FE:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/PC.v
+L0 1
+R8
+r1
+31
+Z79 !s90 -reportprogress|300|-work|work|E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/PC.v|
+R10
+n@p@c
+Z80 !s108 1545730872.967000
+Z81 !s107 E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/PC.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vRegister
+Z82 !s100 VfmCQT`<Ik`g:RJ9ljV;E2
+Z83 IlgU4DSl13IBdR6G6nBUgn1
+Z84 V4IOz_B]=:co[a2bP0Eezf3
+R4
+Z85 w1545051170
+Z86 8E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Register.v
+Z87 FE:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Register.v
+L0 1
+R8
+r1
+31
+Z88 !s90 -reportprogress|300|-work|work|E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Register.v|
+R10
+Z89 n@register
+Z90 !s108 1545730873.249000
+Z91 !s107 E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/Register.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestB_Control
+Z92 !s100 LH;ngQAfM4a]X<4`AX_Ln3
+Z93 I1WdamG=7L[Q1Uf^D^b?Zn1
+Z94 V=5FPnf6PzNO:PcEb5VCkE1
+R4
+Z95 w1543584889
+Z96 8E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_Control.v
+Z97 FE:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_Control.v
+L0 1
+R8
+r1
+31
+Z98 !s90 -reportprogress|300|-work|work|E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_Control.v|
+R10
+Z99 n@test@b_@control
+Z100 !s108 1545730873.524000
+Z101 !s107 E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_Control.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestB_InPutOP
+Z102 !s100 eHHnfji>UQUaX8zWED7el2
+Z103 I0kXD802cYmQ_PM>h;RiiX1
+Z104 VCTnC:3b20fH[2X<;ed13D3
+R4
+Z105 w1544067656
+Z106 8E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_InPutOP.v
+Z107 FE:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_InPutOP.v
+L0 1
+R8
+r1
+31
+Z108 !s90 -reportprogress|300|-work|work|E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_InPutOP.v|
+R10
+Z109 n@test@b_@in@put@o@p
+Z110 !s108 1545730873.766000
+Z111 !s107 E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_InPutOP.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestB_Instruction
+Z112 !s100 oeX@:hMdeXQ^]Liei0;kd3
+Z113 IfF3A`m[dB5`C:bHAK3[lF0
+Z114 Vb<k:2`NmcgR:G9l^ZbkHf2
+R4
+Z115 w1543588095
+Z116 8E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_Instruction.v
+Z117 FE:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_Instruction.v
+L0 1
+R8
+r1
+31
+Z118 !s90 -reportprogress|300|-work|work|E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_Instruction.v|
+R10
+Z119 n@test@b_@instruction
+Z120 !s108 1545730874.068000
+Z121 !s107 E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_Instruction.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestB_MCU
+Z122 !s100 Tz[2`f;ak8JIh?]FaZMA[1
+Z123 Ii_oPRg8kcYe_nJjGGc6191
+Z124 VATKVJVi:8ZIhIBmBC9e6M0
+R4
+Z125 w1545019947
+Z126 8E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_MCU.v
+Z127 FE:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_MCU.v
+L0 1
+R8
+r1
+31
+Z128 !s90 -reportprogress|300|-work|work|E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_MCU.v|
+R10
+Z129 n@test@b_@m@c@u
+Z130 !s108 1545730874.549000
+Z131 !s107 E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_MCU.v|
+!i10b 1
+!s85 0
+!s101 -O0
+vTestB_PC
+Z132 !s100 :fdhmHnnV_dfW0z2ZWDDE2
+Z133 I^n6Eog]6H;H=kmB5l``Dg1
+Z134 VXkF_G<JeUkl7Sei[@fUh61
+R4
+Z135 w1545013765
+Z136 8E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_PC.v
+Z137 FE:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_PC.v
+L0 1
+R8
+r1
+31
+Z138 !s90 -reportprogress|300|-work|work|E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_PC.v|
+R10
+Z139 n@test@b_@p@c
+!i10b 1
+!s85 0
+Z140 !s108 1545730874.834000
+Z141 !s107 E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_PC.v|
+!s101 -O0
+vTestB_Register
+!i10b 1
+Z142 !s100 3k]kS1:1kRUi[l34nFf8;3
+Z143 IMS^MXc5Ac_^RWm8^C5ChJ1
+Z144 V^>bfXW6BL3gaoEVaGf>J<1
+R4
+Z145 w1543586529
+Z146 8E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_Register.v
+Z147 FE:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_Register.v
+L0 1
+R8
+r1
+!s85 0
+31
+!s108 1545730875.082000
+!s107 E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_Register.v|
+Z148 !s90 -reportprogress|300|-work|work|E:/20181/VLSI/thietke/VLSI_MCU8bit_Nhom2/implement/MCU8bit/TestB_Register.v|
+!s101 -O0
+R10
+Z149 n@test@b_@register

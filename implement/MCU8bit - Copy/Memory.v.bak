@@ -1,0 +1,9 @@
+module Memory
+(
+  input 			EN,
+  input 			clk,
+  input [3:0] 	Addr,
+  input [7:0] 	Write_data,
+  output [7:0] Dout
+);
+reg [7:0] Mem [15:0];

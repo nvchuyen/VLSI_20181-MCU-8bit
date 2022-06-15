@@ -1,0 +1,3 @@
+module TestB_Control();
+reg clk, reset;
+reg 

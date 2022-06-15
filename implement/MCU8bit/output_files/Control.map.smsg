@@ -1,0 +1,7 @@
+Info (10281): Verilog HDL Declaration information at Control.v(5): object "CNT_CLK" differs only in case from object "cnt_clk" in the same scope
+Info (10281): Verilog HDL Declaration information at ALU.v(5): object "CNT_CLK" differs only in case from object "cnt_clk" in the same scope
+Info (10281): Verilog HDL Declaration information at Register.v(5): object "CNT_CLK" differs only in case from object "cnt_clk" in the same scope
+Info (10281): Verilog HDL Declaration information at Memory.v(5): object "CNT_CLK" differs only in case from object "cnt_clk" in the same scope
+Info (10281): Verilog HDL Declaration information at Intruction.v(5): object "CNT_CLK" differs only in case from object "cnt_clk" in the same scope
+Info (10281): Verilog HDL Declaration information at MCU_8bit.v(16): object "Write_Data" differs only in case from object "Write_data" in the same scope
+Info (10281): Verilog HDL Declaration information at MCU_8bit.v(9): object "MemToReg" differs only in case from object "MemtoReg" in the same scope

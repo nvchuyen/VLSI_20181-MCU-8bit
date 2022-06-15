@@ -1,0 +1,11 @@
+module Register (
+ input EN,
+ input clk,
+ input WR,
+ input Read_Addr1[3:0],
+ input Read_Addr2[3:0],
+ input Write_Addr[3:0],
+ input Write_Data[7:0],
+ output Dout1[7:0],
+ output Dout2[7:0]
+);

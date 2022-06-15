@@ -1,0 +1,6 @@
+module TestB_PC();
+input clk;
+input EN;
+input PC_Control;
+input [N-1:0]Count_ALU;
+output [N-1:0]pc;

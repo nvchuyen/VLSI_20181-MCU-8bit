@@ -1,0 +1,7 @@
+module Cnt_clk(
+  input clk,
+  input reset,
+  output Cnt
+);
+always 
+endmodule
